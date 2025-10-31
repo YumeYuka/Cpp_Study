@@ -16,7 +16,7 @@ hero:
       link: ./guide/README.md
     - theme: alt
       text: GitHub
-      link: https://github.com/YumeYuka/cpp_study
+      link: https://github.com/YumeYuka/Yume-CPP-Study
 ---
 
 <HomeUnderline />
